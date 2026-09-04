@@ -1,7 +1,7 @@
 # 01-Individual Repo
 Template for individual student repo
 
-<img src="./images/thisisme.png" width="20%">
+<img src="./images/Headshot.png" width="20%">
 <p> Replace this image with your headshot photo</p>
 
 ## Individual links
