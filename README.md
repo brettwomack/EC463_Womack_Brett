@@ -1,5 +1,4 @@
 # 01-Individual Repo
-Template for individual student repo
 
 <img src="./images/Headshot.png" width="20%">
 
