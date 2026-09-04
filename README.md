@@ -2,15 +2,14 @@
 Template for individual student repo
 
 <img src="./images/Headshot.png" width="20%">
-<p> Replace this image with your headshot photo</p>
 
 ## Individual links
-- [Log book]()
-- [Individual Google Drive Folder]()
+- [Log book](https://docs.google.com/document/d/1BYFWe89goxYaS_rAZOBef-A35AWGCCfkIt1wHfeGL-M/edit?usp=drive_link)
+- [Individual Google Drive Folder](https://drive.google.com/drive/folders/1KbjLaOdukT02tL6mFkt3Yx8oDoCeiEad?usp=drive_link)
 
 ## Team links
-- [Team Google Drive folder]()
-- [Team Board]()
+- [Team Google Drive folder](https://drive.google.com/drive/folders/1eS1-z7lYTuzipwMSxXpDb7cKtGCTwEzA?usp=drive_link)
+- [Team Board](https://github.com/jungjae01eng/EC463_Team_23_LibraryWarden)
 
 ## Organization of this repo
 
